@@ -80,7 +80,7 @@ export default function LoginMainPage() {
                 open={open}
                 autoHideDuration={6000}
                 onClose={handleClose}
-                message="Invalid credentials. Please contact support via chat."
+                message="Invalid credentials."
                 action={action}
                 anchorOrigin={{ vertical: 'top', horizontal: 'right' }}
             />
